@@ -1,0 +1,13 @@
+const mkrm = () => { 
+	return `
+◪ *𝐌𝐀𝐊𝐄𝐑 𝐌𝐄𝐍𝐔*
+╔𒋨 💖!tahta 「 _text_ 」
+║💖 !matrix 「 _text_ 」
+║💖 !googletxt 「 _text_ 」
+║💖 !spiderman 「 _text_ 」
+║💖 !express 「 _text_ 」
+╚𒋨💖!pubg 「 _text1|text2_ 」
+`
+}
+
+exports.mkrm = mkrm

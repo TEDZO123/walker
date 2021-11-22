@@ -1,0 +1,32 @@
+const grpm = () => { 
+	return `
+◪ *𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔*
+│ !getpict 「 _@tag_ 」
+│ !getbio 「 _@tag_ 」
+│ !promote 「 _@tag_ 」
+│ !demote 「 _@tag_ 」
+│ !antilink 「 _1/0_ 」
+│ !autosticker 「 _1/0_ 」
+│ !welcome 「 _1/0_ 」
+│ !antibule 「 _1/0_ 」
+│ !creategrup 「 _name|@tag_ 」
+│ !getppgc
+│ !getdeskgc
+│ !sider 「 _reply text_ 」
+│ !hacked 「 _text_ 」
+│ !setnamegc 「 _text_ 」
+│ !setdeskgc 「 _text_ 」
+│ !tictactoe「 _x/o @tag_ 」
+│ !delttt
+│ !fitnah 「 _@tag|text1|text2_ 」
+│ !kontak 「 _@tag|name_ 」
+│ !kontag 「 _@tag|name_ 」
+│ !group 「 _open/close_ 」
+│ !linkgrup
+│ !hidetag 「 _text_ 」
+│ !sticktag 「 _name sticker_ 」
+╰ !totag 「 _reply media_ 」
+`
+}
+
+exports.grpm = grpm
